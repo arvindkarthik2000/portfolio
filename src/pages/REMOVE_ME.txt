@@ -1,0 +1,1 @@
+This file is a placeholder to keep the pages directory after reverting to single-page app. You can delete this file and the /pages directory if you wish.
