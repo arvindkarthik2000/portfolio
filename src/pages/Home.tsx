@@ -4,7 +4,6 @@ import { ThemeProvider } from "../components/ThemeProvider";
 import ParticleBackground from "../components/ParticleBackground";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
-import React from "react";
 
 export default function HomePage() {
   // Typewriter effect can be added here if needed
